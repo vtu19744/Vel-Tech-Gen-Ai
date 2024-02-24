@@ -1,1 +1,1 @@
-# Vel-Tech-Gen-Ai
+# This Repository Contains Projects Related To Gen Ai
